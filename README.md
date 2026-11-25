@@ -7,10 +7,13 @@ problem-solving patterns.
 ## Progress
 
 <!-- STATS:START -->
-**0 solved**
+**1 solved**  ·  Easy: 1
+
+**Languages:** Python (1)
 
 | # | Problem | Difficulty | Solution |
 |--:|---------|:----------:|----------|
+| 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [Python](easy/1523-count-odd-numbers-in-an-interval-range.py) |
 <!-- STATS:END -->
 
 ## How this repo is organized

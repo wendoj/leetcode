@@ -7,12 +7,13 @@ problem-solving patterns.
 ## Progress
 
 <!-- STATS:START -->
-**1 solved**  ·  Easy: 1
+**2 solved**  ·  Easy: 2
 
-**Languages:** Python (1)
+**Languages:** Python (2)
 
 | # | Problem | Difficulty | Solution |
 |--:|---------|:----------:|----------|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](easy/0020-valid-parentheses.py) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [Python](easy/1523-count-odd-numbers-in-an-interval-range.py) |
 <!-- STATS:END -->
 

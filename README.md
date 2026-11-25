@@ -7,12 +7,13 @@ problem-solving patterns.
 ## Progress
 
 <!-- STATS:START -->
-**4 solved**  ·  Easy: 4
+**5 solved**  ·  Easy: 5
 
-**Languages:** Python (4)
+**Languages:** Python (5)
 
 | # | Problem | Difficulty | Solution |
 |--:|---------|:----------:|----------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](easy/0001-two-sum.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](easy/0020-valid-parentheses.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](easy/0217-contains-duplicate.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](easy/0242-valid-anagram.py) |

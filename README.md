@@ -7,14 +7,15 @@ problem-solving patterns.
 ## Progress
 
 <!-- STATS:START -->
-**3 solved**  ·  Easy: 3
+**4 solved**  ·  Easy: 4
 
-**Languages:** Python (3)
+**Languages:** Python (4)
 
 | # | Problem | Difficulty | Solution |
 |--:|---------|:----------:|----------|
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](easy/0020-valid-parentheses.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](easy/0217-contains-duplicate.py) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](easy/0242-valid-anagram.py) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [Python](easy/1523-count-odd-numbers-in-an-interval-range.py) |
 <!-- STATS:END -->
 

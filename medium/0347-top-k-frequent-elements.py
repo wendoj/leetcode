@@ -1,15 +1,10 @@
 # 347. Top K Frequent Elements
 # Difficulty: Medium
 # https://leetcode.com/problems/top-k-frequent-elements/
-# Runtime: 7 ms | Memory: 13.8 MB
+# Runtime: 5 ms | Memory: 22.8 MB
 
-class Solution(object):
-    def topKFrequent(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: List[int]
-        """
+class Solution:
+    def topKFrequent(self, nums: list[int], k: int) -> list[int]:
         frequency = {}
         for num in nums:
             frequency[num] = frequency.get(num, 0) + 1

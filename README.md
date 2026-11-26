@@ -7,14 +7,15 @@ problem-solving patterns.
 ## Progress
 
 <!-- STATS:START -->
-**5 solved**  ·  Easy: 5
+**6 solved**  ·  Easy: 5  ·  Medium: 1
 
-**Languages:** Python (5)
+**Languages:** Python (6)
 
 | # | Problem | Difficulty | Solution |
 |--:|---------|:----------:|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](easy/0001-two-sum.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](easy/0020-valid-parentheses.py) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Python](medium/0049-group-anagrams.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](easy/0217-contains-duplicate.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](easy/0242-valid-anagram.py) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [Python](easy/1523-count-odd-numbers-in-an-interval-range.py) |

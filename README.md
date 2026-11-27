@@ -7,9 +7,9 @@ problem-solving patterns.
 ## Progress
 
 <!-- STATS:START -->
-**8 solved**  ·  Easy: 6  ·  Medium: 2
+**9 solved**  ·  Easy: 7  ·  Medium: 2
 
-**Languages:** Python (8)
+**Languages:** Python (9)
 
 | # | Problem | Difficulty | Solution |
 |--:|---------|:----------:|----------|
@@ -21,6 +21,7 @@ problem-solving patterns.
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](easy/0242-valid-anagram.py) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Python](medium/0347-top-k-frequent-elements.py) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [Python](easy/1523-count-odd-numbers-in-an-interval-range.py) |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | [Python](easy/1929-concatenation-of-array.py) |
 <!-- STATS:END -->
 
 ## How this repo is organized

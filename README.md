@@ -7,9 +7,9 @@ problem-solving patterns.
 ## Progress
 
 <!-- STATS:START -->
-**9 solved**  ·  Easy: 7  ·  Medium: 2
+**10 solved**  ·  Easy: 7  ·  Medium: 3
 
-**Languages:** Python (9)
+**Languages:** Python (10)
 
 | # | Problem | Difficulty | Solution |
 |--:|---------|:----------:|----------|
@@ -18,6 +18,7 @@ problem-solving patterns.
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Python](medium/0049-group-anagrams.py) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Python](easy/0125-valid-palindrome.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](easy/0217-contains-duplicate.py) |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Python](medium/0238-product-of-array-except-self.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](easy/0242-valid-anagram.py) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Python](medium/0347-top-k-frequent-elements.py) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [Python](easy/1523-count-odd-numbers-in-an-interval-range.py) |
